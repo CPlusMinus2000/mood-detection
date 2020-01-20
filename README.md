@@ -1,2 +1,3 @@
 # mood-detection
-A tensorflow network that categorizes emotion
+
+A project for Hack the North 2019
